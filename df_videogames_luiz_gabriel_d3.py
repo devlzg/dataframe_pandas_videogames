@@ -12,6 +12,7 @@ Aluno: Luiz Gabriel Lisboa Santos - 34566724
 # Importando a biblioteca
 """
 
+from IPython.display import display # importando o método display, que funciona como um print porém mais bonito visualmente e por apresentar a possibilidade de filtragem e geração de gráficos.
 import pandas as pd # importando a biblioteca para poder utilizar seus métodos
 
 """# Criando as listas"""
